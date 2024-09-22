@@ -1,0 +1,15 @@
+{
+  "timeZone": "America/Port-au-Prince",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "ScriptTemplate",
+        "version": "0",
+        "libraryId": "1SOzEYtHFFgO9OW4fFDkgmvCz5R1gnjAbcFXEea0fkUhB2YBNChbJrkNi",
+        "developmentMode": true
+      }
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
